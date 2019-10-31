@@ -19,3 +19,5 @@ In this section, you'll visualize a geospatial data set, queried using an API, u
 ### Deliverable
 
 The notebook and your animated GIF should be submitted to your own private repository on GitHub, which can be created using the following link:
+
+https://classroom.github.com/a/OABZHpe3
